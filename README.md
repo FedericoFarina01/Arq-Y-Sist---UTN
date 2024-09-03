@@ -1,2 +1,2 @@
 # Arq-Y-Sist---UTN
-Repositorio de Arquitectura y Sistemasa Operativos
+Repositorio de Arquitectura y Sistemas Operativos
