@@ -1,0 +1,116 @@
+    1  clear
+    2  $   git config --global user.email "fedefarina.melli@gmail.com"
+    3  clear
+    4    git config --global user.name "Federico Farina"
+    5  git config --global user.email "fedefarina.melli@gmail.com"
+    6  git config --global user.name "Federico"
+    7  git --version
+    8  git config --global user.name "Federico Farina"
+    9  git config --global user.email "fedefarina.melli@gmail.com 
+   10  git config --list
+   11  git config --list
+   12  git config user.name
+   13  git help config
+   14  mkdir mkdir mi-repositorio
+   15  cd mi-repositorio
+   16  git init
+   17  git config --global user.name "Federico Farina"
+   18  git config --global user.email fedefarina.melli@gmail.com
+   19  git usar --
+   20  user email --info
+   21  h
+   22  help
+   23  user.email
+   24  git user.email
+   25  git --user.email
+   26  git --help
+   27  git --info
+   28  git -user.email
+   29  git --user.email
+   30  git -user.info
+   31  git info
+   32  gir -config
+   33  git -config
+   34  git-info
+   35  git-config
+   36  ls
+   37  git clone [200~
+   38  git clone https://github.com/upszot/UTN-FRA_SO_onBording.git
+   39  ls
+   40  cd UTN-FRA_SO_onBording/
+   41  ls
+   42  cat README.md
+   43  clear
+   44  cd ..
+   45  git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+   46  ls
+   47  cd UTN-FRA_SO_Vagrant/
+   48  ls
+   49  ls -l
+   50  ls -la
+   51  cd VagrantFiles/
+   52  ls
+   53  cd l_equipo
+   54  cd 1_equipo
+   55  ls
+   56  cat Vagrantfile 
+   57  ĺs
+   58  ls
+   59  Vagrant up
+   60  vagrant ssh
+   61  vagrant ssh
+   62  vagrant ssh
+   63  ls
+   64  vagrant ssh
+   65  ls
+   66  vagrant destroy -f
+   67  vagrant up
+   68  vagrant ssh
+   69  vagrant ssh
+   70  whoami
+   71  pwd
+   72  vagrant up
+   73  cd repogit
+   74  ls
+   75  man echo
+   76  vagrant up
+   77  vagrant ssh
+   78  vagrant up
+   79  vagrant ssh
+   80  ls
+   81  vagrant up
+   82  cd 1_equipo
+   83  cd 1_equipo
+   84  ls
+   85  cd VagrantFiles/
+   86  ls
+   87  cd 1_equipo
+   88  ls
+   89  vagrant up
+   90  vagrant ssh
+   91  vagrant up
+   92  vagrant ssh
+   93  vagrant up
+   94  vagrant hal
+   95  ls
+   96  vagrant up
+   97  ls
+   98  vagrant up
+   99  vagrant ssh
+  100  ls
+  101  vagrant up
+  102  ls
+  103  vagrant up
+  104  vagrant up
+  105  ls
+  106  vagrant up
+  107  ls
+  108  vagrant up
+  109  ls
+  110  vagrant up
+  111  cd repogit
+  112  git clone https://github.com/FedericoFarina01/Arq-Y-Sist---UTN.git
+  113  ls
+  114  cd Arq-Y-Sist---UTN/
+  115  ls
+  116  history > historial.txt
